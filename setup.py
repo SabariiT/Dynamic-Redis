@@ -17,7 +17,7 @@ setup(
     install_requires=['redis'],
     keywords=['python', 'redis', 'sentinel'],
     classifiers=[
-        "Development Status :: 1 - Testing",
+        "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
         "Operating System :: Unix",
